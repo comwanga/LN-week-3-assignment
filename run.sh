@@ -8,4 +8,4 @@
 # /bin/bash ./python/run-python.sh
 
 # if you are using rust, uncomment the line below
-# /bin/bash ./rust/run-rust.sh
+/bin/bash ./rust/run-rust.sh
